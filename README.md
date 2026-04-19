@@ -1,7 +1,15 @@
+🎬 CINESPOILERS API - DJANGO REST FRAMEWORK
+
 DESARROLLO DE APLICACIONES EMPRESARIALES
 DOCENTE: ELLIOT GARAMENDI
 
+👨‍💻 Integrantes
+Kevin Quispe Ccolque
+Calep Neyra Taype
+Junior Cueva Fabian
 
+
+👥 PRUEBAS POR INTEGRANTE
 Kevin Quispe Ccolque
 
 GET
@@ -25,6 +33,7 @@ DELETE: Eliminamos la peli batman "NO CNONTENT"
 ![BD](image-8.png)
 
 //////////////////////////////////////////////////////
+
 Calep Neyra Taype
 
 GET
@@ -39,14 +48,15 @@ http://127.0.0.1:8000/api/peliculas/
 ![post](image-13.png)
 
 PUT: 
-![puts](image-5.png)
-![bds](image-6.png)
+![putss](image-17.png)
+
 
 DELETE: 
-![DELETEa](image-7.png)
-![BDa](image-8.png)
+![deltedd](image-18.png)
+
 
 //////////////////////////////////////////////////////
+
 Junior Cueva Fabian
 
 GET
@@ -65,3 +75,14 @@ PUT:
 
 DELETE: 
 ![deltede](image-16.png)
+
+🗄️ Base de Datos
+
+Se utilizó SQLite para almacenar la información, verificando cada operación CRUD mediante el panel de administración y visualización directa de la base de datos.
+
+🚀 Tecnologías
+Python
+Django
+Django Rest Framework
+SQLite
+Thunder Client
