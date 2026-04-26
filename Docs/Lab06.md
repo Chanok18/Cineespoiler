@@ -58,20 +58,20 @@ API REST desarrollada con **Django Rest Framework** para gestionar GENEROS de pe
 ### Calep Neyra Taype
 
 **GET**
-
+![getss](image-21.png)
+![vas](image-24.png)
 
 
 **POST**
-
-
-
+![posts](image-23.png)
+![vava](image-22.png)
 **PUT**
-
+![putd](image-27.png)
 
 
 **DELETE**
-
-
+![dele](image-25.png)
+![alt](image-26.png)
 
 ---
 
