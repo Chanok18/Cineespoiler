@@ -1,6 +1,6 @@
 # 🎬 Lab06- Cinespoilers API
 
-API REST desarrollada con **Django Rest Framework** para gestionar películas mediante operaciones CRUD.
+API REST desarrollada con **Django Rest Framework** para gestionar GENEROS de pelis mediante operaciones CRUD.
 
 ## 📘 Información del curso
 
@@ -59,20 +59,19 @@ API REST desarrollada con **Django Rest Framework** para gestionar películas me
 
 **GET**
 
-![gets](./image-11.png)
-![alt text](./image-12.png)
+
 
 **POST**
 
-![post](./image-13.png)
+
 
 **PUT**
 
-![putss](./image-17.png)
+
 
 **DELETE**
 
-![deltedd](./image-18.png)
+
 
 ---
 
@@ -80,17 +79,17 @@ API REST desarrollada con **Django Rest Framework** para gestionar películas me
 
 **GET**
 
-![gets](./image-9.png)
-![ña](./image-14.png)
+![getss](image-19.png)
+![bdsa](image-20.png)
 
 **POST**
 
-![post](./image-10.png)
+![posts](image-16.png)
 
 **PUT**
 
-![puts](./image-15.png)
+![putss](image-17.png)
 
 **DELETE**
 
-![deltede](./image-16.png)
+![deletss](image-18.png)
